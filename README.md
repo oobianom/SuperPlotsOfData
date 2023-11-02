@@ -1,4 +1,4 @@
-![](s517_5GrJBdAKQ56Ee4cj7ntmIEWvtjBAQcx56GKDTZGw_logo_251.jpg) 
+![](https://shiny-app-store3.s3.amazonaws.com/approvedapp/s517_5GrJBdAKQ56Ee4cj7ntmIEWvtjBAQcx56GKDTZGw_logo_251.jpg) 
 
 # SuperPlotsOfData: Realtime Generative App for Sentences by Joachim Goedhart
 
